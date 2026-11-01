@@ -1,0 +1,6 @@
+fastapi>=0.110
+pydantic>=2
+httpx>=0.27
+pytest>=8
+coverage>=7
+mutmut>=3
